@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/{pnb3431}.github.io" 
-url: "http://{pnb3431}.github.io" # the base hostname & protocol for your site
+baseurl: "/pnb3431.github.io" 
+url: "http://pnb3431.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
