@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Podcasts
+title: Finished Ruby Foundations 
 ---
-To keep up with what is going on in development, and learn some lingo, I subscribed to some Podcasts in the iTunes store.
-I subscribed to Software Engineering Daily, Learn to Code with Me, CodeNewbie, and Developer Tea.  These were all on the
-top list for the tech category.  If anyone has any good ones that i am missing, please let me know!
+Yesterday, I finished my ruby foundations course, and started my Alexa project.  I am very excited to get started 
+with Alexa, as I am really into home automation, and using new technology.  I am trying to think of some good idea 
+of useful skills to make!
