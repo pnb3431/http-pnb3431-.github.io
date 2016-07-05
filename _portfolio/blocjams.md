@@ -1,9 +1,9 @@
 ---
 layout: post
-title: BlocJams
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+title: Grilling Time And Heat Settings Alexa Skill
+feature-img: "img/echo.jpeg"
+thumbnail-path: "https://s3.amazonaws.com/CAPS-SSE/echo_developer/37f9572c599e47f79aab5d3fa1e99bb4/APP_ICON?versionId=OkbEJ7TeKd5h_EdhEEz0gA58nhW1ajsY&AWSAccessKeyId=AKIAJU2MTL4LKYISVAMA&Expires=1467742354&Signature=%2FHNmkhHJOsOKVvPHDSjDkxAMRKQ%3D
+short-description: Alexa Skill for the amazon echo, that will give you the correct way to grill what you ask her.  
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+
